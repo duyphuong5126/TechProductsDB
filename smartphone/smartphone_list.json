@@ -8,5 +8,15 @@
 	   "brand":"iPhone",
 	   "series":"13",
 	   "model":"13mini"
+	},
+	{
+	   "brand":"iPhone",
+	   "series":"13",
+	   "model":"13pro"
+	},
+	{
+	   "brand":"iPhone",
+	   "series":"13",
+	   "model":"13promax"
 	}
 ]

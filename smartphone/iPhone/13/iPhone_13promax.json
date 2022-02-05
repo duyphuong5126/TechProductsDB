@@ -1,6 +1,6 @@
 {
    "brand":"iPhone",
-   "model":"13 mini",
+   "model":"13 Pro Max",
    "launch":{
       "announced_date":"2021-09-14",
       "status":1
@@ -23,15 +23,15 @@
    },
    "body":{
       "dimens":{
-         "height":131.5,
-         "width":64.2,
+         "height":160.8,
+         "width":78.1,
          "depth":7.65
       },
-      "weight":140,
+      "weight":238,
       "build":{
          "front":"Gorilla Glass",
          "back":"Gorilla Glass",
-         "frame":"Aluminum"
+         "frame":"Stainless steel"
       },
       "splash_dust_water_resistance":{
          "standards":[
@@ -50,19 +50,19 @@
    "display":{
       "basic_technology":"OLED",
       "detail_technologies":[
-         "Super Retina XDR OLED",
+         "Super Retina XDR display with ProMotion",
          "HDR10",
-         "800 nits (HBM)",
-         "1200 nits (peak)"
+         "1,000 nits max brightness (typical)",
+         "1,200 nits max brightness (HDR)"
       ],
-      "size_in_inches":5.4,
-      "screen_to_body_ratio":0.851,
+      "size_in_inches":6.7,
+      "screen_to_body_ratio":0.874,
       "resolution":{
-         "width_pixels":1080,
-         "height_pixels":2340,
+         "width_pixels":1284,
+         "height_pixels":2778,
          "width_ratio":9,
          "height_ratio":19.5,
-         "density":476
+         "density":458
       },
       "protection":[
          "Scratch-resistant ceramic glass",
@@ -97,7 +97,7 @@
          ],
          "gpu":{
             "name":"Apple GPU",
-            "core_count":4
+            "core_count":5
          }
       }
    },
@@ -106,12 +106,13 @@
          
       ],
       "ram_options":[
-         4
+         6
       ],
       "rom_options":[
          128,
          256,
-         512
+         512,
+         1024
       ],
       "memory_chip":"NVMe"
    },
@@ -121,24 +122,34 @@
             {
                "name":"Wide camera",
                "type":"Rear",
-               "aperture":1.6,
+               "aperture":1.5,
                "mp":12
             },
             {
                "name":"Ultra wide camera",
                "type":"Rear",
-               "aperture":2.4,
+               "aperture":1.8,
+               "mp":12
+            },
+            {
+               "name":"Telephoto camera",
+               "type":"Rear",
+               "aperture":2.8,
                "mp":12
             }
          ],
          "features":[
             "120° field of view",
+            "3x optical zoom in",
             "2x optical zoom out",
-            "Digital zoom up to 5x",
+            "6x optical zoom range",
+            "Digital zoom up to 15x",
+            "Night mode portraits enabled by LiDAR Scanner",
             "Portrait mode with advanced bokeh and Depth Control",
             "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
+            "Dual optical image stabilization (Telephoto and Wide)",
             "Sensor‑shift optical image stabilization (Wide)",
-            "Seven‑element lens (Wide); five‑element lens (Ultra Wide)",
+            "Six‑element lens (Telephoto and Ultra Wide); seven‑element lens (Wide)",
             "True Tone flash with Slow Sync",
             "Panorama (up to 63MP)",
             "Sapphire crystal lens cover",
@@ -147,12 +158,14 @@
             "Deep Fusion",
             "Smart HDR 4",
             "Photographic Styles",
+            "Macro photography",
+            "Apple ProRAW",
             "Wide color capture for photos and Live Photos",
             "Lens correction (Ultra Wide)",
             "Advanced red‑eye correction",
+            "Photo geotagging",
             "Auto image stabilization",
             "Burst mode",
-            "Photo geotagging",
             "Image formats captured: HEIF and JPEG"
          ],
          "video_options":{
@@ -184,15 +197,19 @@
             "features":[
                "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
                "HDR video recording with Dolby Vision up to 4K at 60 fps",
-               "Sensor-shift optical image stabilization for video (Wide)",
+               "ProRes video recording up to 4K at 30 fps (1080p at 30 fps for 128GB storage)",
+               "Dual optical image stabilization for video (Telephoto and Wide)",
+               "Sensor‑shift optical image stabilization for video (Wide)",
+               "3x optical zoom in",
                "2x optical zoom out",
-               "Digital zoom up to 3x",
+               "6x optical zoom range",
+               "Digital zoom up to 9x",
                "Audio zoom",
                "True Tone flash",
                "QuickTake video",
                "Slo‑mo video support for 1080p at 120 fps or 240 fps",
                "Time‑lapse video with stabilization",
-               "Night mode Time-lapse",
+               "Night mode Time‑lapse",
                "Cinematic video stabilization (4K, 1080p, and 720p)",
                "Continuous autofocus video",
                "Take 8MP still photos while recording 4K video",
@@ -213,13 +230,17 @@
          ],
          "features":[
             "Portrait mode with advanced bokeh and Depth Control",
+            "Portrait mode with advanced bokeh and Depth Control",
             "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
             "Animoji and Memoji",
             "Night mode",
             "Deep Fusion",
             "Smart HDR 4",
             "Photographic Styles",
-            "Night mode Time-lapse",
+            "Apple ProRAW",
+            "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
+            "HDR video recording with Dolby Vision up to 4K at 60 fps",
+            "Night mode Time‑lapse",
             "Wide color capture for photos and Live Photos",
             "Lens correction",
             "Retina Flash",
@@ -240,7 +261,6 @@
                {
                   "resolution":"1080",
                   "fps_options":[
-                     24,
                      25,
                      30,
                      60
@@ -248,9 +268,8 @@
                }
             ],
             "features":[
-               "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
-               "HDR video recording with Dolby Vision up to 4K at 60 fps",
-               "Slo-mo video support for 1080p at 120 fps",
+               "ProRes video recording up to 4K at 30 fps (1080p at 30 fps for 128GB storage)",
+               "Slo‑mo video support for 1080p at 120 fps",
                "Time‑lapse video with stabilization",
                "Cinematic video stabilization (4K, 1080p, and 720p)",
                "QuickTake video"
@@ -261,7 +280,7 @@
    "sound":{
       "loud_speaker":true,
       "stereo":true,
-      "3.5mm_jack":true
+      "3.5mm_jack":false
    },
    "connections":{
       "wlan":{
@@ -282,21 +301,22 @@
       "Three‑axis gyro",
       "Accelerometer",
       "Proximity sensor",
-      "Ambient light sensor"
+      "Ambient light sensor",
+      "LiDAR Scanner"
    ],
    "audio_playback":{
       "formats":[
-         "AAC‑LC",
-         "HE‑AAC",
-         "HE‑AAC v2",
-         "Protected AAC",
-         "MP3",
-         "Linear PCM",
-         "Apple Lossless",
-         "FLAC",
-         "Dolby Digital (AC‑3)",
-         "Dolby Digital Plus (E‑AC‑3)",
-         "Dolby Atmos",
+         "AAC‑LC", 
+         "HE‑AAC", 
+         "HE‑AAC v2", 
+         "Protected AAC", 
+         "MP3", 
+         "Linear PCM", 
+         "Apple Lossless", 
+         "FLAC", 
+         "Dolby Digital (AC‑3)", 
+         "Dolby Digital Plus (E‑AC‑3)", 
+         "Dolby Atmos", 
          "Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)"
       ],
       "features":[
@@ -326,15 +346,15 @@
    ],
    "battery":{
       "type":"Li-Ion",
-      "capacity":2406,
-      "video_playback_hours":17,
-      "streamed_video_playback_hours":13,
-      "audio_playback_hours":55,
+      "capacity":3095,
+      "video_playback_hours":28,
+      "streamed_video_playback_hours":25,
+      "audio_playback_hours":95,
       "features":[
          "MagSafe wireless charging up to 15",
          "Qi wireless charging up to 7.5",
          "Charging via USB to computer system or power adapter",
-         "Fast-charge capable: Up to 50% charge in 30 minutes10 with 20W adapter or higher (available separately)"
+         "Fast-charge capable: Up to 50% charge in 30 minutes with 20W adapter or higher (available separately)"
       ]
    },
    "physical_buttons":[
@@ -343,10 +363,9 @@
       "Power"
    ],
    "colors":[
-      "Starlight",
-      "Midnight",
-      "Blue",
-      "Pink",
-      "Red"
+      "Graphite", 
+      "Gold", 
+      "Silver", 
+      "Sierra Blue"
    ]
 }
