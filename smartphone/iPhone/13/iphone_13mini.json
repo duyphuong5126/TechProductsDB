@@ -1,0 +1,352 @@
+{
+   "brand":"iPhone",
+   "model":"13 mini",
+   "launch":{
+      "announced_date":"2021-09-14",
+      "status":1
+   },
+   "network":{
+      "general_specs":[
+         "GSM",
+         "CDMA",
+         "HSPA",
+         "EVDO",
+         "LTE",
+         "5G"
+      ],
+      "speed":[
+         "HSPA 42.2/5.76 Mbps",
+         "LTE-A",
+         "5G",
+         "EV-DO Rev.A 3.1 Mbps"
+      ]
+   },
+   "body":{
+      "dimens":{
+         "height":131.5,
+         "width":64.2,
+         "depth":7.65
+      },
+      "weight":140,
+      "build":{
+         "front":"Gorilla Glass",
+         "back":"Gorilla Glass",
+         "frame":"Aluminum"
+      },
+      "splash_dust_water_resistance":{
+         "standards":[
+            "IP68"
+         ],
+         "descriptions":"Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529"
+      }
+   },
+   "sim_cards":{
+      "physical_sim_type":2,
+      "support_esim":true,
+      "dual_sims":true,
+      "dual_esims":true,
+      "mixed_sims":true
+   },
+   "display":{
+      "basic_technology":"OLED",
+      "detail_technologies":[
+         "Super Retina XDR OLED",
+         "HDR10",
+         "800 nits (HBM)",
+         "1200 nits (peak)"
+      ],
+      "size_in_inches":5.4,
+      "screen_to_body_ratio":0.851,
+      "resolution":{
+         "width_pixels":1080,
+         "height_pixels":2340,
+         "width_ratio":9,
+         "height_ratio":19.5,
+         "density":476
+      },
+      "protection":[
+         "Scratch-resistant ceramic glass",
+         "Oleophobic coating"
+      ],
+      "features":[
+         "Wide color gamut",
+         "True-tone"
+      ]
+   },
+   "platform":{
+      "os":"iOS 15",
+      "upgradable_os":"iOS 15.3",
+      "chipset":{
+         "name":"Apple A15 Bionic",
+         "process":"5nm",
+         "cpu":[
+            {
+               "core":{
+                  "name":"Avalanche",
+                  "freq_ghz":3.223
+               },
+               "core_count":2
+            },
+            {
+               "core":{
+                  "name":"Blizzard",
+                  "freq_ghz":1.82
+               },
+               "core_count":4
+            }
+         ],
+         "gpu":{
+            "name":"Apple GPU",
+            "core_count":4
+         }
+      }
+   },
+   "memory":{
+      "card_slot":[
+         
+      ],
+      "ram_options":[
+         4
+      ],
+      "rom_options":[
+         128,
+         256,
+         512
+      ],
+      "memory_chip":"NVMe"
+   },
+   "camera":{
+      "rear_cameras":{
+         "sensors":[
+            {
+               "name":"Wide camera",
+               "type":"Rear",
+               "aperture":1.6,
+               "mp":12
+            },
+            {
+               "name":"Ultra wide camera",
+               "type":"Rear",
+               "aperture":2.4,
+               "mp":12
+            }
+         ],
+         "features":[
+            "120° field of view",
+            "2x optical zoom out",
+            "Digital zoom up to 5x",
+            "Portrait mode with advanced bokeh and Depth Control",
+            "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
+            "Sensor‑shift optical image stabilization (Wide)",
+            "Seven‑element lens (Wide); five‑element lens (Ultra Wide)",
+            "True Tone flash with Slow Sync",
+            "Panorama (up to 63MP)",
+            "Sapphire crystal lens cover",
+            "100% Focus Pixels (Wide)",
+            "Night mode",
+            "Deep Fusion",
+            "Smart HDR 4",
+            "Photographic Styles",
+            "Wide color capture for photos and Live Photos",
+            "Lens correction (Ultra Wide)",
+            "Advanced red‑eye correction",
+            "Auto image stabilization",
+            "Burst mode",
+            "Photo geotagging",
+            "Image formats captured: HEIF and JPEG"
+         ],
+         "video_options":{
+            "options":[
+               {
+                  "resolution":"4K",
+                  "fps_options":[
+                     24,
+                     25,
+                     30,
+                     60
+                  ]
+               },
+               {
+                  "resolution":"1080p",
+                  "fps_options":[
+                     25,
+                     30,
+                     60
+                  ]
+               },
+               {
+                  "resolution":"720p",
+                  "fps_options":[
+                     30
+                  ]
+               }
+            ],
+            "features":[
+               "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
+               "HDR video recording with Dolby Vision up to 4K at 60 fps",
+               "Sensor-shift optical image stabilization for video (Wide)",
+               "2x optical zoom out",
+               "Digital zoom up to 3x",
+               "Audio zoom",
+               "True Tone flash",
+               "QuickTake video",
+               "Slo‑mo video support for 1080p at 120 fps or 240 fps",
+               "Time‑lapse video with stabilization",
+               "Night mode Time-lapse",
+               "Cinematic video stabilization (4K, 1080p, and 720p)",
+               "Continuous autofocus video",
+               "Take 8MP still photos while recording 4K video",
+               "Playback zoom",
+               "Video formats recorded: HEVC and H.264",
+               "Stereo recording"
+            ]
+         }
+      },
+      "front_cameras":{
+         "sensors":[
+            {
+               "name":"TrueDepth camera",
+               "type":"Front",
+               "aperture":2.2,
+               "mp":12
+            }
+         ],
+         "features":[
+            "Portrait mode with advanced bokeh and Depth Control",
+            "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
+            "Animoji and Memoji",
+            "Night mode",
+            "Deep Fusion",
+            "Smart HDR 4",
+            "Photographic Styles",
+            "Night mode Time-lapse",
+            "Wide color capture for photos and Live Photos",
+            "Lens correction",
+            "Retina Flash",
+            "Auto image stabilization",
+            "Burst mode"
+         ],
+         "video_options":{
+            "options":[
+               {
+                  "resolution":"4K",
+                  "fps_options":[
+                     24,
+                     25,
+                     30,
+                     60
+                  ]
+               },
+               {
+                  "resolution":"1080",
+                  "fps_options":[
+                     24,
+                     25,
+                     30,
+                     60
+                  ]
+               }
+            ],
+            "features":[
+               "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
+               "HDR video recording with Dolby Vision up to 4K at 60 fps",
+               "Slo-mo video support for 1080p at 120 fps",
+               "Time‑lapse video with stabilization",
+               "Cinematic video stabilization (4K, 1080p, and 720p)",
+               "QuickTake video"
+            ]
+         }
+      }
+   },
+   "sound":{
+      "loud_speaker":true,
+      "stereo":true,
+      "3.5mm_jack":true
+   },
+   "connections":{
+      "wlan":{
+         "version":"6",
+         "infor":"Wi‑Fi 6 (802.11ax) with 2x2 MIMO"
+      },
+      "bluetooth":"5.0",
+      "nfc":true,
+      "radio":false,
+      "connector":"Lightning",
+      "others":[
+         "Express Cards with power reserve"
+      ]
+   },
+   "sensors":[
+      "Face ID",
+      "Barometer",
+      "Three‑axis gyro",
+      "Accelerometer",
+      "Proximity sensor",
+      "Ambient light sensor"
+   ],
+   "audio_playback":{
+      "formats":[
+         "AAC‑LC",
+         "HE‑AAC",
+         "HE‑AAC v2",
+         "Protected AAC",
+         "MP3",
+         "Linear PCM",
+         "Apple Lossless",
+         "FLAC",
+         "Dolby Digital (AC‑3)",
+         "Dolby Digital Plus (E‑AC‑3)",
+         "Dolby Atmos",
+         "Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)"
+      ],
+      "features":[
+         "Spatial audio playback",
+         "User‑configurable maximum volume limit"
+      ]
+   },
+   "video_playback":{
+      "formats":[
+         "HEVC",
+         "H.264",
+         "MPEG‑4 Part 2",
+         "Motion JPEG"
+      ],
+      "features":[
+         "HDR with Dolby Vision, HDR10, and HLG",
+         "Up to 4K HDR AirPlay for mirroring, photos, and video out to Apple TV (2nd generation or later) or AirPlay 2–enabled smart TV",
+         "Video mirroring and video out support: Up to 1080p through Lightning Digital AV Adapter and Lightning to VGA Adapter (adapters sold separately)"
+      ]
+   },
+   "security_options":[
+      "Face ID"
+   ],
+   "features":[
+      "Siri",
+      "Ultra Wideband chip for spatial awareness"
+   ],
+   "battery":{
+      "type":"Li-Ion",
+      "capacity":3227,
+      "video_playback_hours":17,
+      "streamed_video_playback_hours":13,
+      "audio_playback_hours":55,
+      "features":[
+         "MagSafe wireless charging up to 15",
+         "Qi wireless charging up to 7.5",
+         "Charging via USB to computer system or power adapter",
+         "Fast-charge capable: Up to 50% charge in 30 minutes10 with 20W adapter or higher (available separately)"
+      ]
+   },
+   "physical_buttons":[
+      "Volume up/down",
+      "Ring/Silent",
+      "Power"
+   ],
+   "colors":[
+      "Starlight",
+      "Midnight",
+      "Blue",
+      "Pink",
+      "Red"
+   ]
+}
