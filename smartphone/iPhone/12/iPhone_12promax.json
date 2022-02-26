@@ -1,6 +1,6 @@
 {
    "brand":"iPhone",
-   "model":"13 mini",
+   "model":"12 Pro Max",
    "launch":{
       "announced_date":"2021-09-14",
       "status":1
@@ -23,15 +23,15 @@
    },
    "body":{
       "dimens":{
-         "height":131.5,
-         "width":64.2,
-         "depth":7.65
+         "height":160.8,
+         "width":78.1,
+         "depth":7.4
       },
-      "weight":140,
+      "weight":228,
       "build":{
          "front":"Gorilla Glass",
          "back":"Gorilla Glass",
-         "frame":"Aluminum"
+         "frame":"Stainless steel"
       },
       "splash_dust_water_resistance":{
          "standards":[
@@ -44,25 +44,30 @@
       "physical_sim_type":2,
       "support_esim":true,
       "dual_sims":true,
-      "dual_esims":true,
+      "dual_esims":false,
       "mixed_sims":true
    },
    "display":{
       "basic_technology":"OLED",
       "detail_technologies":[
-         "Super Retina XDR OLED",
-         "HDR10",
-         "800 nits max brightness (typical)",
-         "1,200 nits max brightness (HDR)"
+         "HDR display",
+         "True Tone",
+         "Wide color (P3)",
+         "Haptic Touch",
+         "2,000,000:1 contrast ratio (typical)",
+         "800 nits max brightness (typical)", 
+         "1200 nits max brightness (HDR)",
+         "Fingerprint-resistant oleophobic coating",
+         "Support for display of multiple languages and characters simultaneously"
       ],
-      "size_in_inches":5.4,
-      "screen_to_body_ratio":0.851,
+      "size_in_inches":6.7,
+      "screen_to_body_ratio":0.874,
       "resolution":{
-         "width_pixels":1080,
-         "height_pixels":2340,
+         "width_pixels":1284,
+         "height_pixels":2778,
          "width_ratio":9,
          "height_ratio":19.5,
-         "density":476
+         "density":458
       },
       "protection":[
          "Scratch-resistant ceramic glass",
@@ -74,7 +79,7 @@
       ]
    },
    "platform":{
-      "os":"iOS 15",
+      "os":"iOS 14.1",
       "upgradable_os":"iOS 15.3",
       "chipset":{
          "name":"Apple A15 Bionic",
@@ -82,15 +87,15 @@
          "cpu":[
             {
                "core":{
-                  "name":"Avalanche",
-                  "freq_ghz":3.223
+                  "name":"Firestorm",
+                  "freq_ghz":3.1
                },
                "core_count":2
             },
             {
                "core":{
-                  "name":"Blizzard",
-                  "freq_ghz":1.82
+                  "name":"Icestorm",
+                  "freq_ghz":1.8
                },
                "core_count":4
             }
@@ -106,7 +111,7 @@
          
       ],
       "ram_options":[
-         4
+         6
       ],
       "rom_options":[
          128,
@@ -129,30 +134,40 @@
                "type":"Rear",
                "aperture":2.4,
                "mp":12
+            },
+            {
+               "name":"Telephoto camera",
+               "type":"Rear",
+               "aperture":2.2,
+               "mp":12
             }
          ],
          "features":[
             "120° field of view",
+            "2.5x optical zoom in", 
             "2x optical zoom out",
-            "Digital zoom up to 5x",
+            "5x optical zoom range",
+            "Digital zoom up to 12x",
+            "Night mode portraits enabled by LiDAR Scanner",
             "Portrait mode with advanced bokeh and Depth Control",
             "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
-            "Sensor‑shift optical image stabilization (Wide)",
-            "Seven‑element lens (Wide); five‑element lens (Ultra Wide)",
-            "True Tone flash with Slow Sync",
+            "Dual optical image stabilization (Wide and Telephoto)",
+            "Sensor-shift optical image stabilization",
+            "Five-element lens (Ultra Wide); six‑element lens (Telephoto); seven-element lens (Wide)",
+            "Brighter True Tone flash with Slow Sync",
             "Panorama (up to 63MP)",
             "Sapphire crystal lens cover",
             "100% Focus Pixels (Wide)",
-            "Night mode",
-            "Deep Fusion",
-            "Smart HDR 4",
-            "Photographic Styles",
+            "Night mode (Ultra Wide, Wide)",
+            "Deep Fusion (Ultra Wide, Wide, Telephoto)",
+            "Smart HDR 3",
+            "Apple ProRAW",
             "Wide color capture for photos and Live Photos",
             "Lens correction (Ultra Wide)",
-            "Advanced red‑eye correction",
+            "Advanced red-eye correction",
+            "Photo geotagging",
             "Auto image stabilization",
             "Burst mode",
-            "Photo geotagging",
             "Image formats captured: HEIF and JPEG"
          ],
          "video_options":{
@@ -182,17 +197,20 @@
                }
             ],
             "features":[
-               "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
-               "HDR video recording with Dolby Vision up to 4K at 60 fps",
+               "HDR video recording with Dolby Vision up to 60 fps",
                "Sensor-shift optical image stabilization for video (Wide)",
+               "Optical image stabilization for video (Wide)",
+               "2.5x optical zoom in",
                "2x optical zoom out",
-               "Digital zoom up to 3x",
+               "5x optical zoom range",
+               "Digital zoom up to 7x",
                "Audio zoom",
-               "True Tone flash",
+               "Brighter True Tone flash",
                "QuickTake video",
                "Slo‑mo video support for 1080p at 120 fps or 240 fps",
                "Time‑lapse video with stabilization",
-               "Night mode Time-lapse",
+               "Night mode Time‑lapse",
+               "Extended dynamic range for video up to 60 fps",
                "Cinematic video stabilization (4K, 1080p, and 720p)",
                "Continuous autofocus video",
                "Take 8MP still photos while recording 4K video",
@@ -213,13 +231,12 @@
          ],
          "features":[
             "Portrait mode with advanced bokeh and Depth Control",
-            "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)",
+            "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High-Key Mono)",
             "Animoji and Memoji",
             "Night mode",
             "Deep Fusion",
-            "Smart HDR 4",
-            "Photographic Styles",
-            "Night mode Time-lapse",
+            "Smart HDR 3",
+            "Night mode Time‑lapse",
             "Wide color capture for photos and Live Photos",
             "Lens correction",
             "Retina Flash",
@@ -240,7 +257,6 @@
                {
                   "resolution":"1080",
                   "fps_options":[
-                     24,
                      25,
                      30,
                      60
@@ -248,12 +264,12 @@
                }
             ],
             "features":[
-               "Cinematic mode for recording videos with shallow depth of field (in 1080p at 30 fps)",
-               "HDR video recording with Dolby Vision up to 4K at 60 fps",
-               "Slo-mo video support for 1080p at 120 fps",
+               "HDR video recording with Dolby Vision up to 30 fps",
+               "Slo‑mo video support for 1080p at 120 fps",
                "Time‑lapse video with stabilization",
+               "Extended dynamic range for video up to 30 fps",
                "Cinematic video stabilization (4K, 1080p, and 720p)",
-               "QuickTake video"
+               "QuickTake video",
             ]
          }
       }
@@ -282,21 +298,22 @@
       "Three‑axis gyro",
       "Accelerometer",
       "Proximity sensor",
-      "Ambient light sensor"
+      "Ambient light sensor",
+      "LiDAR Scanner"
    ],
    "audio_playback":{
       "formats":[
-         "AAC‑LC",
-         "HE‑AAC",
-         "HE‑AAC v2",
-         "Protected AAC",
-         "MP3",
-         "Linear PCM",
-         "Apple Lossless",
-         "FLAC",
-         "Dolby Digital (AC‑3)",
-         "Dolby Digital Plus (E‑AC‑3)",
-         "Dolby Atmos",
+         "AAC‑LC", 
+         "HE‑AAC", 
+         "HE‑AAC v2", 
+         "Protected AAC", 
+         "MP3", 
+         "Linear PCM", 
+         "Apple Lossless", 
+         "FLAC", 
+         "Dolby Digital (AC‑3)", 
+         "Dolby Digital Plus (E‑AC‑3)", 
+         "Dolby Atmos", 
          "Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)"
       ],
       "features":[
@@ -326,15 +343,15 @@
    ],
    "battery":{
       "type":"Li-Ion",
-      "capacity":2406,
-      "video_playback_hours":17,
-      "streamed_video_playback_hours":13,
-      "audio_playback_hours":55,
+      "capacity":3687,
+      "video_playback_hours":20,
+      "streamed_video_playback_hours":12,
+      "audio_playback_hours":80,
       "features":[
-         "MagSafe wireless charging up to 15",
-         "Qi wireless charging up to 7.5",
+         "MagSafe wireless charging up to 15W",
+         "Qi wireless charging up to 7.5W",
          "Charging via USB to computer system or power adapter",
-         "Fast-charge capable: Up to 50% charge in 30 minutes10 with 20W adapter or higher (available separately)"
+         "Fast-charge capable: Up to 50% charge in 30 minutes with 20W adapter or higher (available separately)"
       ]
    },
    "physical_buttons":[
@@ -343,10 +360,9 @@
       "Power"
    ],
    "colors":[
-      "Starlight",
-      "Midnight",
-      "Blue",
-      "Pink",
-      "Red"
+      "Graphite", 
+      "Gold", 
+      "Silver", 
+      "Sierra Blue"
    ]
 }

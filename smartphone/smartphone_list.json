@@ -2,21 +2,11 @@
 	{
 	   "brand":"iPhone",
 	   "series":"13",
-	   "model":"13"
+	   "models":["13","13mini","13pro","13promax"]
 	},
 	{
 	   "brand":"iPhone",
-	   "series":"13",
-	   "model":"13mini"
+	   "series":"12",
+	   "models":["12","12mini","12pro","12promax"]
 	},
-	{
-	   "brand":"iPhone",
-	   "series":"13",
-	   "model":"13pro"
-	},
-	{
-	   "brand":"iPhone",
-	   "series":"13",
-	   "model":"13promax"
-	}
 ]

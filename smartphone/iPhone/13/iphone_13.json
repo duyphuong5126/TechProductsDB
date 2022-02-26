@@ -52,8 +52,8 @@
       "detail_technologies":[
          "Super Retina XDR OLED",
          "HDR10",
-         "800 nits (HBM)",
-         "1200 nits (peak)"
+         "800 nits max brightness (typical)",
+         "1,200 nits max brightness (HDR)"
       ],
       "size_in_inches":6.1,
       "screen_to_body_ratio":0.86,
@@ -261,7 +261,7 @@
    "sound":{
       "loud_speaker":true,
       "stereo":true,
-      "3.5mm_jack":true
+      "3.5mm_jack":false
    },
    "connections":{
       "wlan":{
