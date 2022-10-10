@@ -1,0 +1,38 @@
+[
+	{
+		"productId": "ip13promax",
+        "options": "128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+	},
+	{
+		"productId": "ip13promax",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+	},
+	{
+		"productId": "ip13promax",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+	},
+	{
+		"productId": "ip13promax",
+        "options": "1TB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-1tb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+	}
+]
