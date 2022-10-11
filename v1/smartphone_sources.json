@@ -70,5 +70,122 @@
         "htmlElement": "p.box-price-present",
         "currency": "VND",
         "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "options": "128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13",
+        "htmlElement": "div.bs_price > strong",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-256gb",
+        "htmlElement": "div.bs_price > strong",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "options": "128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini",
+        "htmlElement": "div.bs_price > strong",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "options": "64GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "options": "128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-128gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12mini",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-mini-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "options": "64GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-11",
+        "htmlElement": "div.bs_price > strong",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "options": "64GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-11-128gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "options": "64GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-se-2022",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
     }
 ]
