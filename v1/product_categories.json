@@ -2,26 +2,31 @@
 	{
 		"category_code": "smartphone",
 		"category_name": "Smartphone",
+		"price_source": "smartphone_price_source.json",
 		"product_count": 30
 	},
 	{
 		"category_code": "tablet",
 		"category_name": "Tablet",
+		"price_source": "tablet_price_source.json",
 		"product_count": 100
 	},
 	{
 		"category_code": "laptop",
 		"category_name": "Laptop",
+		"price_source": "laptop_price_source.json",
 		"product_count": 10000000
 	},
 	{
 		"category_code": "mobile_accessory",
 		"category_name": "Mobile Accessory",
+		"price_source": "mobile_accessory_price_source.json",
 		"product_count": 200000000
 	},
 	{
 		"category_code": "smart_tv",
 		"category_name": "Smart Tv",
+		"price_source": "smart_tv_price_source.json",
 		"product_count": 59900000
 	}
 ]
