@@ -1,7 +1,7 @@
 [
 	{
         "productId": "ip14",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14",
@@ -11,7 +11,7 @@
     },
     {
         "productId": "ip14",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-256gb",
@@ -21,7 +21,7 @@
     },
     {
         "productId": "ip14",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-512gb",
@@ -31,7 +31,7 @@
     },
     {
         "productId": "ip14plus",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-plus",
@@ -41,7 +41,7 @@
     },
     {
         "productId": "ip14plus",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-plus-256gb",
@@ -51,7 +51,7 @@
     },
     {
         "productId": "ip14plus",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-plus-512gb",
@@ -61,7 +61,7 @@
     },
     {
         "productId": "ip14pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro",
@@ -71,7 +71,7 @@
     },
     {
         "productId": "ip14pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-256gb",
@@ -81,7 +81,7 @@
     },
     {
         "productId": "ip14pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-512gb",
@@ -91,7 +91,7 @@
     },
     {
         "productId": "ip14pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "1TB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-1tb",
@@ -101,7 +101,7 @@
     },
     {
         "productId": "ip14promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-max",
@@ -111,7 +111,7 @@
     },
     {
         "productId": "ip14promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-max-256gb",
@@ -121,7 +121,7 @@
     },
     {
         "productId": "ip14promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-max-512gb",
@@ -131,7 +131,7 @@
     },
     {
         "productId": "ip14promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "1TB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-14-pro-max-1tb",
@@ -141,7 +141,7 @@
     },
     {
 		"productId": "ip13promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max",
@@ -151,7 +151,7 @@
 	},
 	{
 		"productId": "ip13promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-256gb",
@@ -161,7 +161,7 @@
 	},
 	{
 		"productId": "ip13promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-512gb",
@@ -171,7 +171,7 @@
 	},
 	{
 		"productId": "ip13promax",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "1TB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-max-1tb",
@@ -181,7 +181,7 @@
 	},
     {
         "productId": "ip13pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro",
@@ -191,7 +191,7 @@
     },
     {
         "productId": "ip13pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-256gb",
@@ -201,7 +201,7 @@
     },
     {
         "productId": "ip13pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-512gb",
@@ -211,7 +211,7 @@
     },
     {
         "productId": "ip13pro",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "1TB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-1tb",
@@ -221,7 +221,7 @@
     },
     {
         "productId": "ip13",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13",
@@ -231,7 +231,7 @@
     },
     {
         "productId": "ip13",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-256gb",
@@ -241,7 +241,7 @@
     },
     {
         "productId": "ip13",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-512gb",
@@ -251,7 +251,7 @@
     },
     {
         "productId": "ip13mini",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini",
@@ -261,7 +261,7 @@
     },
     {
         "productId": "ip13mini",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini-256gb",
@@ -271,7 +271,7 @@
     },
     {
         "productId": "ip13mini",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "512GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-mini-512gb",
@@ -281,7 +281,7 @@
     },
     {
         "productId": "ip12",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "64GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12",
@@ -291,7 +291,7 @@
     },
     {
         "productId": "ip12",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-128gb",
@@ -301,7 +301,7 @@
     },
     {
         "productId": "ip12",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-256gb",
@@ -311,7 +311,7 @@
     },
     {
         "productId": "ip12mini",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-12-mini-256gb",
@@ -321,7 +321,7 @@
     },
     {
         "productId": "ip11",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "64GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-11",
@@ -331,7 +331,7 @@
     },
     {
         "productId": "ip11",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-11-128gb",
@@ -341,7 +341,7 @@
     },
     {
         "productId": "ipSE2022",
-        "category_code": "smartphone",
+        "categoryId": "smartphone",
         "options": "64GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-se-2022",
