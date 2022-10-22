@@ -1,6 +1,7 @@
 [
 	{
 		"code_name": "ip14promax",
+        "category_code": "smartphone",
 		"name": "iPhone 14 Pro Max",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14promax.jpeg",
@@ -8,6 +9,7 @@
 	},
 	{
 		"code_name": "ip14pro",
+        "category_code": "smartphone",
 		"name": "iPhone 14 Pro",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14pro.jpeg",
@@ -15,6 +17,7 @@
 	},
 	{
 		"code_name": "ip14plus",
+        "category_code": "smartphone",
 		"name": "iPhone 14 Plus",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14plus.jpeg",
@@ -22,6 +25,7 @@
 	},
 	{
 		"code_name": "ip14",
+        "category_code": "smartphone",
 		"name": "iPhone 14",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14.jpeg",
@@ -29,6 +33,7 @@
 	},
 	{
 		"code_name": "ip13promax",
+        "category_code": "smartphone",
 		"name": "iPhone 13 Pro Max",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13promax.jpeg",
@@ -36,6 +41,7 @@
 	},
 	{
 		"code_name": "ip13pro",
+        "category_code": "smartphone",
 		"name": "iPhone 13 Pro",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13pro.jpeg",
@@ -43,6 +49,7 @@
 	},
 	{
 		"code_name": "ip13",
+        "category_code": "smartphone",
 		"name": "iPhone 13",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13.jpeg",
@@ -50,6 +57,7 @@
 	},
 	{
 		"code_name": "ip13mini",
+        "category_code": "smartphone",
 		"name": "iPhone 13 Mini",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13mini.jpeg",
@@ -57,6 +65,7 @@
 	},
 	{
 		"code_name": "ipSE2022",
+        "category_code": "smartphone",
 		"name": "iPhone SE 2022",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2022.jpeg",
@@ -64,6 +73,7 @@
 	},
 	{
 		"code_name": "ip12promax",
+        "category_code": "smartphone",
 		"name": "iPhone 12 Pro Max",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12promax.jpeg",
@@ -71,6 +81,7 @@
 	},
 	{
 		"code_name": "ip12pro",
+        "category_code": "smartphone",
 		"name": "iPhone 12 Pro",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12pro.jpeg",
@@ -78,6 +89,7 @@
 	},
 	{
 		"code_name": "ip12",
+        "category_code": "smartphone",
 		"name": "iPhone 12",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12.jpeg",
@@ -85,6 +97,7 @@
 	},
 	{
 		"code_name": "ip12mini",
+        "category_code": "smartphone",
 		"name": "iPhone 12 Mini",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12mini.jpeg",
@@ -92,6 +105,7 @@
 	},
 	{
 		"code_name": "ipSE2020",
+        "category_code": "smartphone",
 		"name": "iPhone SE 2020",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2020.jpeg",
@@ -99,6 +113,7 @@
 	},
 	{
 		"code_name": "ip11promax",
+        "category_code": "smartphone",
 		"name": "iPhone 11 Pro Max",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11promax.jpeg",
@@ -106,6 +121,7 @@
 	},
 	{
 		"code_name": "ip11pro",
+        "category_code": "smartphone",
 		"name": "iPhone 11 Pro",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11pro.jpeg",
@@ -113,6 +129,7 @@
 	},
 	{
 		"code_name": "ip11",
+        "category_code": "smartphone",
 		"name": "iPhone 11",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11.jpeg",
@@ -120,6 +137,7 @@
 	},
 	{
 		"code_name": "ipxsmax",
+        "category_code": "smartphone",
 		"name": "iPhone XS Max",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxsmax.jpeg",
@@ -127,6 +145,7 @@
 	},
 	{
 		"code_name": "ipxs",
+        "category_code": "smartphone",
 		"name": "iPhone XS",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxs.jpeg",
@@ -134,6 +153,7 @@
 	},
 	{
 		"code_name": "ipxr",
+        "category_code": "smartphone",
 		"name": "iPhone XR",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxr.jpeg",
@@ -141,6 +161,7 @@
 	},
 	{
 		"code_name": "ipx",
+        "category_code": "smartphone",
 		"name": "iPhone X",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipx.jpeg",
@@ -148,6 +169,7 @@
 	},
 	{
 		"code_name": "ip8plus",
+        "category_code": "smartphone",
 		"name": "iPhone 8 Plus",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip8plus.jpeg",
@@ -155,6 +177,7 @@
 	},
 	{
 		"code_name": "ip8",
+        "category_code": "smartphone",
 		"name": "iPhone 8",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip8.jpeg",
@@ -162,6 +185,7 @@
 	},
 	{
 		"code_name": "ip7plus",
+        "category_code": "smartphone",
 		"name": "iPhone 7 Plus",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip7plus.jpeg",
@@ -169,6 +193,7 @@
 	},
 	{
 		"code_name": "ip7",
+        "category_code": "smartphone",
 		"name": "iPhone 7",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip7.jpeg",
@@ -176,6 +201,7 @@
 	},
 	{
 		"code_name": "ipSE",
+        "category_code": "smartphone",
 		"name": "iPhone SE",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE.jpeg",
@@ -183,6 +209,7 @@
 	},
 	{
 		"code_name": "ip6splus",
+        "category_code": "smartphone",
 		"name": "iPhone 6s Plus",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6splus.jpeg",
@@ -190,6 +217,7 @@
 	},
 	{
 		"code_name": "ip6s",
+        "category_code": "smartphone",
 		"name": "iPhone 6s",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6s.jpeg",
@@ -197,6 +225,7 @@
 	},
 	{
 		"code_name": "ip6plus",
+        "category_code": "smartphone",
 		"name": "iPhone 6 Plus",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6plus.jpeg",
@@ -204,6 +233,7 @@
 	},
 	{
 		"code_name": "ip6",
+        "category_code": "smartphone",
 		"name": "iPhone 6",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6.jpeg",
