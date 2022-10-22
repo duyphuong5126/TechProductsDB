@@ -1,0 +1,552 @@
+[
+	{
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-max.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-max-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-max-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-max-1tb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-pro-1tb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-plus.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-plus-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-plus-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-14-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-max.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-max-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-max-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-max-1tb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-pro-1tb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-mini.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-mini-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-13-mini-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12promax",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro-max.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro-max-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro-max-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12pro",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-pro-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12mini",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-mini.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12mini",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-mini-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12mini",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-12-mini-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11promax",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro-max.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro-max-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro-max-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11pro",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-pro-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-11-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2022.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2022-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2022-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2020",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2020",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2020-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2020",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/iphone-se-2020-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+]
