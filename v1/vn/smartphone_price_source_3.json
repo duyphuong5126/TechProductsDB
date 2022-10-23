@@ -1,0 +1,362 @@
+[
+	{
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=128gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=256gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=512gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14promax",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=1tb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=128gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=256gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=512gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14pro",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=1tb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=128gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=256gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14plus",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=512gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=128gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=256gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip14",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=512gb",
+        "htmlElement": "span.txtPriceFinal",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro-max",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro-max?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro-max?dung-luong=512gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13promax",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro-max?dung-luong=1tb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro?dung-luong=512gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13pro",
+        "categoryId": "smartphone",
+        "options": "1TB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-pro?dung-luong=1tb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13?dung-luong=512gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-mini?dung-luong=128gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-mini?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip13mini",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-13-mini?dung-luong=512gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-12?dung-luong=64gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-12?dung-luong=128gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip12",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-12?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-11-64gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ip11",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-11-128gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "64GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-se-2022",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-se-2022?dung-luong=128gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "ipSE2022",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-se-2022?dung-luong=256gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    }
+]
