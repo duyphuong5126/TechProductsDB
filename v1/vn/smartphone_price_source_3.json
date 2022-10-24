@@ -300,16 +300,6 @@
         "countryCode": "vn"
     },
     {
-        "productId": "ip12",
-        "categoryId": "smartphone",
-        "options": "256GB",
-        "sourceGroupName": "FPT Shop",
-        "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-12?dung-luong=256gb",
-        "htmlElement": "div.st-price-main",
-        "currency": "VND",
-        "countryCode": "vn"
-    },
-    {
         "productId": "ip11",
         "categoryId": "smartphone",
         "options": "64GB",
