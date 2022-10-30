@@ -3,6 +3,7 @@
 		"code_name": "ip14promax",
         "category_code": "smartphone",
 		"name": "iPhone 14 Pro Max",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14promax.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip14promax.jpeg"
@@ -11,6 +12,7 @@
 		"code_name": "ip14pro",
         "category_code": "smartphone",
 		"name": "iPhone 14 Pro",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14pro.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip14pro.jpeg"
@@ -19,6 +21,7 @@
 		"code_name": "ip14plus",
         "category_code": "smartphone",
 		"name": "iPhone 14 Plus",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14plus.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip14plus.jpeg"
@@ -27,6 +30,7 @@
 		"code_name": "ip14",
         "category_code": "smartphone",
 		"name": "iPhone 14",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip14.jpeg"
@@ -35,6 +39,7 @@
 		"code_name": "ip13promax",
         "category_code": "smartphone",
 		"name": "iPhone 13 Pro Max",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13promax.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip13promax.jpeg"
@@ -43,6 +48,7 @@
 		"code_name": "ip13pro",
         "category_code": "smartphone",
 		"name": "iPhone 13 Pro",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13pro.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip13pro.jpeg"
@@ -51,6 +57,7 @@
 		"code_name": "ip13",
         "category_code": "smartphone",
 		"name": "iPhone 13",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip13.jpeg"
@@ -59,6 +66,7 @@
 		"code_name": "ip13mini",
         "category_code": "smartphone",
 		"name": "iPhone 13 Mini",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13mini.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip13mini.jpeg"
@@ -67,6 +75,7 @@
 		"code_name": "ipSE2022",
         "category_code": "smartphone",
 		"name": "iPhone SE 2022",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2022.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipSE2022.jpeg"
@@ -75,6 +84,7 @@
 		"code_name": "ip12promax",
         "category_code": "smartphone",
 		"name": "iPhone 12 Pro Max",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12promax.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip12promax.jpeg"
@@ -83,6 +93,7 @@
 		"code_name": "ip12pro",
         "category_code": "smartphone",
 		"name": "iPhone 12 Pro",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12pro.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip12pro.jpeg"
@@ -91,6 +102,7 @@
 		"code_name": "ip12",
         "category_code": "smartphone",
 		"name": "iPhone 12",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip12.jpeg"
@@ -99,6 +111,7 @@
 		"code_name": "ip12mini",
         "category_code": "smartphone",
 		"name": "iPhone 12 Mini",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12mini.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip12mini.jpeg"
@@ -107,6 +120,7 @@
 		"code_name": "ipSE2020",
         "category_code": "smartphone",
 		"name": "iPhone SE 2020",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2020.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipSE2020.jpeg"
@@ -115,6 +129,7 @@
 		"code_name": "ip11promax",
         "category_code": "smartphone",
 		"name": "iPhone 11 Pro Max",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11promax.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip11promax.jpeg"
@@ -123,6 +138,7 @@
 		"code_name": "ip11pro",
         "category_code": "smartphone",
 		"name": "iPhone 11 Pro",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11pro.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip11pro.jpeg"
@@ -131,6 +147,7 @@
 		"code_name": "ip11",
         "category_code": "smartphone",
 		"name": "iPhone 11",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip11.jpeg"
@@ -139,6 +156,7 @@
 		"code_name": "ipxsmax",
         "category_code": "smartphone",
 		"name": "iPhone XS Max",
+		"announced_year": 2018,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxsmax.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipxsmax.jpeg"
@@ -147,6 +165,7 @@
 		"code_name": "ipxs",
         "category_code": "smartphone",
 		"name": "iPhone XS",
+		"announced_year": 2018,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxs.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipxs.jpeg"
@@ -155,6 +174,7 @@
 		"code_name": "ipxr",
         "category_code": "smartphone",
 		"name": "iPhone XR",
+		"announced_year": 2018,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxr.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipxr.jpeg"
@@ -163,86 +183,16 @@
 		"code_name": "ipx",
         "category_code": "smartphone",
 		"name": "iPhone X",
+		"announced_year": 2017,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipx.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ipx.jpeg"
 	},
 	{
-		"code_name": "ip8plus",
-        "category_code": "smartphone",
-		"name": "iPhone 8 Plus",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip8plus.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip8plus.jpeg"
-	},
-	{
-		"code_name": "ip8",
-        "category_code": "smartphone",
-		"name": "iPhone 8",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip8.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip8.jpeg"
-	},
-	{
-		"code_name": "ip7plus",
-        "category_code": "smartphone",
-		"name": "iPhone 7 Plus",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip7plus.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip7plus.jpeg"
-	},
-	{
-		"code_name": "ip7",
-        "category_code": "smartphone",
-		"name": "iPhone 7",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip7.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip7.jpeg"
-	},
-	{
-		"code_name": "ipSE",
-        "category_code": "smartphone",
-		"name": "iPhone SE",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ipSE.jpeg"
-	},
-	{
-		"code_name": "ip6splus",
-        "category_code": "smartphone",
-		"name": "iPhone 6s Plus",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6splus.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip6splus.jpeg"
-	},
-	{
-		"code_name": "ip6s",
-        "category_code": "smartphone",
-		"name": "iPhone 6s",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6s.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip6s.jpeg"
-	},
-	{
-		"code_name": "ip6plus",
-        "category_code": "smartphone",
-		"name": "iPhone 6 Plus",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6plus.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip6plus.jpeg"
-	},
-	{
-		"code_name": "ip6",
-        "category_code": "smartphone",
-		"name": "iPhone 6",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ip6.jpeg"
-	},
-	{
 		"code_name": "samsungZFold4",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Fold 4",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold4.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold4.jpeg"
@@ -251,30 +201,34 @@
 		"code_name": "samsungZFlip4",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Flip 4",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip4.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip4.jpeg"
 	},
 	{
-		"code_name": "samsungZFlip3",
-        "category_code": "smartphone",
-		"name": "Samsung Galaxy Z Flip 3",
-		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip3.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip3.jpeg"
-	},
-	{
 		"code_name": "samsungZFold3",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Fold 3",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold3.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold3.jpeg"
 	},
 	{
+		"code_name": "samsungZFlip3",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Flip 3",
+		"announced_year": 2021,
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip3.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip3.jpeg"
+	},
+	{
 		"code_name": "samsungS22Ultra5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S22 Ultra 5G",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22Ultra5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS22Ultra5G.jpeg"
@@ -283,6 +237,7 @@
 		"code_name": "samsungS22Plus5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S22 Plus 5G",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22Plus5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS22Plus5G.jpeg"
@@ -291,6 +246,7 @@
 		"code_name": "samsungS22_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S22 5G",
+		"announced_year": 2022,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS22_5G.jpeg"
@@ -299,6 +255,7 @@
 		"code_name": "samsungS21Ultra5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S21 Ultra 5G",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21Ultra5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS21Ultra5G.jpeg"
@@ -307,6 +264,7 @@
 		"code_name": "samsungS21Plus5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S21 Plus 5G",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21Plus5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS21Plus5G.jpeg"
@@ -315,6 +273,7 @@
 		"code_name": "samsungS21_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S21 5G",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS21_5G.jpeg"
@@ -323,6 +282,7 @@
 		"code_name": "samsungS21FE5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S21 FE 5G",
+		"announced_year": 2021,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21FE5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS21FE5G.jpeg"
@@ -331,6 +291,7 @@
 		"code_name": "samsungZFlip",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Flip",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip.jpeg"
@@ -339,6 +300,7 @@
 		"code_name": "samsungZFlip_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Flip 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip_5G.jpeg"
@@ -347,6 +309,7 @@
 		"code_name": "samsungZFold2_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Fold 2 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold2_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold2_5G.jpeg"
@@ -355,6 +318,7 @@
 		"code_name": "samsungZFold_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Fold 5G",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold_5G.jpeg"
@@ -363,6 +327,7 @@
 		"code_name": "samsungZFold",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Z Fold",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold.jpeg"
@@ -371,6 +336,7 @@
 		"code_name": "samsungNote20Ultra5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 20 Ultra 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20Ultra5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20Ultra5G.jpeg"
@@ -379,6 +345,7 @@
 		"code_name": "samsungNote20Ultra",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 20 Ultra",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20Ultra.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ssamsungNote20Ultra.jpeg"
@@ -387,6 +354,7 @@
 		"code_name": "samsungNote20_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 20 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20_5G.jpeg"
@@ -395,6 +363,7 @@
 		"code_name": "samsungNote20",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 20",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20.jpeg"
@@ -403,6 +372,7 @@
 		"code_name": "samsungS20Ultra5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 Ultra 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Ultra5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Ultra5G.jpeg"
@@ -411,6 +381,7 @@
 		"code_name": "samsungS20Ultra",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 Ultra",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Ultra.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Ultra.jpeg"
@@ -419,6 +390,7 @@
 		"code_name": "samsungS20Plus5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 Plus 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Plus5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Plus5G.jpeg"
@@ -427,6 +399,7 @@
 		"code_name": "samsungS20Plus",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 Plus",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Plus.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Plus.jpeg"
@@ -435,6 +408,7 @@
 		"code_name": "samsungS20_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20_5G.jpeg"
@@ -443,6 +417,7 @@
 		"code_name": "samsungS20",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20.jpeg"
@@ -451,6 +426,7 @@
 		"code_name": "samsungS20FE5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 FE 5G",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ssamsungS20FE5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20FE5G.jpeg"
@@ -459,14 +435,34 @@
 		"code_name": "samsungS20FE",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S20 FE",
+		"announced_year": 2020,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20FE.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20FE.jpeg"
 	},
 	{
+		"code_name": "samsungS10Lite",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S10 Lite",
+		"announced_year": 2020,
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10Lite.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS10Lite.jpeg"
+	},
+	{
+		"code_name": "samsungNote10Lite",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 10 Lite",
+		"announced_year": 2020,
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10Lite.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10Lite.jpeg"
+	},
+	{
 		"code_name": "samsungNote10Plus5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 10 Plus 5G",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10Plus5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10Plus5G.jpeg"
@@ -475,6 +471,7 @@
 		"code_name": "samsungNote10Plus",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 10 Plus",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10Plus.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10Plus.jpeg"
@@ -483,6 +480,7 @@
 		"code_name": "samsungNote10_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 10 5G",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10_5G.jpeg"
@@ -491,6 +489,7 @@
 		"code_name": "samsungNote10",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy Note 10",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10.jpeg"
@@ -499,6 +498,7 @@
 		"code_name": "samsungS10",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S10",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS10.jpeg"
@@ -507,6 +507,7 @@
 		"code_name": "samsungS10Plus",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S10 Plus",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10Plus.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS10Plus.jpeg"
@@ -515,6 +516,7 @@
 		"code_name": "samsungS10e",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S10e",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10e.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS10e.jpeg"
@@ -523,6 +525,7 @@
 		"code_name": "samsungS10_5G",
         "category_code": "smartphone",
 		"name": "Samsung Galaxy S10 5G",
+		"announced_year": 2019,
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10_5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS10_5G.jpeg"

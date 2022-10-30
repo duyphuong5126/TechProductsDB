@@ -3,7 +3,7 @@
 		"category_code": "smartphone",
 		"category_name": "Smartphone",
 		"price_source": "smartphone_price_source_%d.json",
-		"product_count": 66
+		"product_count": 59
 	},
 	{
 		"category_code": "tablet",
