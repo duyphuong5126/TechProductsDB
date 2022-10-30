@@ -238,5 +238,293 @@
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip6.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_ip6.jpeg"
-	}
+	},
+	{
+		"code_name": "samsungZFold4",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Fold 4",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold4.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold4.jpeg"
+	},
+	{
+		"code_name": "samsungZFlip4",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Flip 4",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip4.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip4.jpeg"
+	},
+	{
+		"code_name": "samsungZFlip3",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Flip 3",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip3.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip3.jpeg"
+	},
+	{
+		"code_name": "samsungZFold3",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Fold 3",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold3.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold3.jpeg"
+	},
+	{
+		"code_name": "samsungS22Ultra5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S22 Ultra 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22Ultra5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS22Ultra5G.jpeg"
+	},
+	{
+		"code_name": "samsungS22Plus5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S22 Plus 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22Plus5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS22Plus5G.jpeg"
+	},
+	{
+		"code_name": "samsungS22_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S22 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS22_5G.jpeg"
+	},
+	{
+		"code_name": "samsungS21Ultra5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S21 Ultra 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21Ultra5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS21Ultra5G.jpeg"
+	},
+	{
+		"code_name": "samsungS21Plus5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S21 Plus 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21Plus5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS21Plus5G.jpeg"
+	},
+	{
+		"code_name": "samsungS21_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S21 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS21_5G.jpeg"
+	},
+	{
+		"code_name": "samsungS21FE5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S21 FE 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS21FE5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS21FE5G.jpeg"
+	},
+	{
+		"code_name": "samsungZFlip",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Flip",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip.jpeg"
+	},
+	{
+		"code_name": "samsungZFlip_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Flip 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFlip_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFlip_5G.jpeg"
+	},
+	{
+		"code_name": "samsungZFold2_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Fold 2 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold2_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold2_5G.jpeg"
+	},
+	{
+		"code_name": "samsungZFold_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Fold 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold_5G.jpeg"
+	},
+	{
+		"code_name": "samsungZFold",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Z Fold",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungZFold.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungZFold.jpeg"
+	},
+	{
+		"code_name": "samsungNote20Ultra5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 20 Ultra 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20Ultra5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20Ultra5G.jpeg"
+	},
+	{
+		"code_name": "samsungNote20Ultra",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 20 Ultra",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20Ultra.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ssamsungNote20Ultra.jpeg"
+	},
+	{
+		"code_name": "samsungNote20_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 20 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20_5G.jpeg"
+	},
+	{
+		"code_name": "samsungNote20",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 20",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20.jpeg"
+	},
+	{
+		"code_name": "samsungS20Ultra5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 Ultra 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Ultra5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Ultra5G.jpeg"
+	},
+	{
+		"code_name": "samsungS20Ultra",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 Ultra",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Ultra.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Ultra.jpeg"
+	},
+	{
+		"code_name": "samsungS20Plus5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 Plus 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Plus5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Plus5G.jpeg"
+	},
+	{
+		"code_name": "samsungS20Plus",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 Plus",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20Plus.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20Plus.jpeg"
+	},
+	{
+		"code_name": "samsungS20_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20_5G.jpeg"
+	},
+	{
+		"code_name": "samsungS20",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20.jpeg"
+	},
+	{
+		"code_name": "samsungS20FE5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 FE 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ssamsungS20FE5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20FE5G.jpeg"
+	},
+	{
+		"code_name": "samsungS20FE",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S20 FE",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20FE.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS20FE.jpeg"
+	},
+	{
+		"code_name": "samsungNote10Plus5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 10 Plus 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10Plus5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10Plus5G.jpeg"
+	},
+	{
+		"code_name": "samsungNote10Plus",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 10 Plus",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10Plus.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10Plus.jpeg"
+	},
+	{
+		"code_name": "samsungNote10_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 10 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10_5G.jpeg"
+	},
+	{
+		"code_name": "samsungNote10",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy Note 10",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote10.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote10.jpeg"
+	},
+	{
+		"code_name": "samsungS10",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S10",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS10.jpeg"
+	},
+	{
+		"code_name": "samsungS10Plus",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S10 Plus",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10Plus.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS10Plus.jpeg"
+	},
+	{
+		"code_name": "samsungS10e",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S10e",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10e.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS10e.jpeg"
+	},
+	{
+		"code_name": "samsungS10_5G",
+        "category_code": "smartphone",
+		"name": "Samsung Galaxy S10 5G",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10_5G.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS10_5G.jpeg"
+	},
 ]

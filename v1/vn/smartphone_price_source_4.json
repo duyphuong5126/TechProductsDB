@@ -1,0 +1,172 @@
+[
+	{
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold4",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold4-5g-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4-5g-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4-5g-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-ultra",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-ultra-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-ultra-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold-3",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold3-5g-512gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip3-5g-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-plus",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-plus-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s22-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s21-fe",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "The Gioi Di Dong",
+        "sourceUrl": "https://www.thegioididong.com/dtdd/samsung-galaxy-s21-fe-256gb",
+        "htmlElement": "p.box-price-present",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+]
