@@ -195,7 +195,7 @@
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-pro-256gb",
-        "htmlElement": "div.box-price-present",
+        "htmlElement": "p.box-price-present",
         "currency": "VND",
         "countryCode": "vn"
     },
