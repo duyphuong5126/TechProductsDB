@@ -1,0 +1,162 @@
+[
+	{
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold4",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold4?dung-luong=512-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip4",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip4?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22-ultra",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22-ultra?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22-ultra?dung-luong=512-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold3?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-fold3?dung-luong=512-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-z-flip-3?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22-plus?dung-luong=128-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22-plus?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s22?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s21-fe?dung-luong=128gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "FPT Shop",
+        "sourceUrl": "https://fptshop.com.vn/dien-thoai/samsung-galaxy-s21-fe?dung-luong=256-gb",
+        "htmlElement": "div.st-price-main",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+]
