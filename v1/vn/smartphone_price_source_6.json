@@ -1,0 +1,192 @@
+[
+	{
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-fold-4.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold4",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-fold-4-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-flip-4.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip4",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-flip-4-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-ultra.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-ultra-12gb-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Ultra5G",
+        "categoryId": "smartphone",
+        "options": "12GB Ram - 512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-ultra-12gb-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-fold-3.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFold3",
+        "categoryId": "smartphone",
+        "options": "512GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-fold-3-512gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip3",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-flip-3.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungZFlip3",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-z-flip-3-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-plus.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS22Plus5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-plus-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS225G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s22-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s21-fe-8gb-128gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21FE5G",
+        "categoryId": "smartphone",
+        "options": "8GB Ram - 256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s21-fe-8gb-256gb.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21Ultra5G",
+        "categoryId": "smartphone",
+        "options": "128GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s21-ultra.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    },
+    {
+        "productId": "samsungS21Ultra5G",
+        "categoryId": "smartphone",
+        "options": "256GB",
+        "sourceGroupName": "CellphoneS",
+        "sourceUrl": "https://cellphones.com.vn/samsung-galaxy-s21-ultra.html",
+        "htmlElement": "p.product__price--show",
+        "currency": "VND",
+        "countryCode": "vn"
+    }
+]
