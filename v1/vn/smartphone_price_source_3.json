@@ -5,7 +5,7 @@
         "options": "128GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=128gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -15,7 +15,7 @@
         "options": "256GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=256gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -25,7 +25,7 @@
         "options": "512GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=512gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -35,7 +35,7 @@
         "options": "1TB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro-max?dung-luong=1tb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -45,7 +45,7 @@
         "options": "128GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=128gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -55,7 +55,7 @@
         "options": "256GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=256gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -65,7 +65,7 @@
         "options": "512GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=512gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -75,7 +75,7 @@
         "options": "1TB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-pro?dung-luong=1tb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -85,7 +85,7 @@
         "options": "128GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=128gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -95,7 +95,7 @@
         "options": "256GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=256gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -105,7 +105,7 @@
         "options": "512GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14-plus?dung-luong=512gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -115,7 +115,7 @@
         "options": "128GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=128gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -125,7 +125,7 @@
         "options": "256GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=256gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -135,7 +135,7 @@
         "options": "512GB",
         "sourceGroupName": "FPT Shop",
         "sourceUrl": "https://fptshop.com.vn/dien-thoai/iphone-14?dung-luong=512gb",
-        "htmlElement": "span.txtPriceFinal",
+        "htmlElement": "div.st-price-main",
         "currency": "VND",
         "countryCode": "vn"
     },

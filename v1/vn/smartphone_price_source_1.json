@@ -225,7 +225,7 @@
         "options": "128GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13",
-        "htmlElement": "div.bs_price > strong",
+        "htmlElement": "p.box-price-present",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -235,7 +235,7 @@
         "options": "256GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-13-256gb",
-        "htmlElement": "div.bs_price > strong",
+        "htmlElement": "p.box-price-present",
         "currency": "VND",
         "countryCode": "vn"
     },
@@ -325,7 +325,7 @@
         "options": "64GB",
         "sourceGroupName": "The Gioi Di Dong",
         "sourceUrl": "https://www.thegioididong.com/dtdd/iphone-11",
-        "htmlElement": "div.bs_price > strong",
+        "htmlElement": "p.box-price-present",
         "currency": "VND",
         "countryCode": "vn"
     },
