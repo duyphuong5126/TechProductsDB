@@ -257,7 +257,7 @@
 		"manufacturer": "Samsung",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS22Ultra5G.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS22Ultra5G.jpeg"
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS22Ultra5G.jpeg"
 	},
 	{
 		"code_name": "samsungS22Plus5G",
@@ -387,7 +387,7 @@
 		"manufacturer": "Samsung",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungNote20Ultra.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ssamsungNote20Ultra.jpeg"
+		"photo_path": "/main/v1/image/smartphone/photo_samsungNote20Ultra.jpeg"
 	},
 	{
 		"code_name": "samsungNote20_5G",
@@ -476,7 +476,7 @@
 		"announced_year": 2020,
 		"manufacturer": "Samsung",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
-		"thumbnail_path": "/main/v1/image/smartphone/thumb_ssamsungS20FE5G.jpeg",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS20FE5G.jpeg",
 		"photo_path": "/main/v1/image/smartphone/photo_samsungS20FE5G.jpeg"
 	},
 	{
@@ -567,7 +567,7 @@
 		"manufacturer": "Samsung",
 		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
 		"thumbnail_path": "/main/v1/image/smartphone/thumb_samsungS10Plus.jpeg",
-		"photo_path": "/main/v1/image/smartphone/photo_ssamsungS10Plus.jpeg"
+		"photo_path": "/main/v1/image/smartphone/photo_samsungS10Plus.jpeg"
 	},
 	{
 		"code_name": "samsungS10e",
