@@ -1,0 +1,212 @@
+[
+	{
+		"code_name": "ip14promax",
+        "category_code": "smartphone",
+		"name": "iPhone 14 Pro Max",
+		"announced_year": 2022,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14promax.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip14promax.jpeg"
+	},
+	{
+		"code_name": "ip14pro",
+        "category_code": "smartphone",
+		"name": "iPhone 14 Pro",
+		"announced_year": 2022,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14pro.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip14pro.jpeg"
+	},
+	{
+		"code_name": "ip14plus",
+        "category_code": "smartphone",
+		"name": "iPhone 14 Plus",
+		"announced_year": 2022,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14plus.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip14plus.jpeg"
+	},
+	{
+		"code_name": "ip14",
+        "category_code": "smartphone",
+		"name": "iPhone 14",
+		"announced_year": 2022,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip14.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip14.jpeg"
+	},
+	{
+		"code_name": "ip13promax",
+        "category_code": "smartphone",
+		"name": "iPhone 13 Pro Max",
+		"announced_year": 2021,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13promax.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip13promax.jpeg"
+	},
+	{
+		"code_name": "ip13pro",
+        "category_code": "smartphone",
+		"name": "iPhone 13 Pro",
+		"announced_year": 2021,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13pro.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip13pro.jpeg"
+	},
+	{
+		"code_name": "ip13",
+        "category_code": "smartphone",
+		"name": "iPhone 13",
+		"announced_year": 2021,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip13.jpeg"
+	},
+	{
+		"code_name": "ip13mini",
+        "category_code": "smartphone",
+		"name": "iPhone 13 Mini",
+		"announced_year": 2021,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip13mini.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip13mini.jpeg"
+	},
+	{
+		"code_name": "ipSE2022",
+        "category_code": "smartphone",
+		"name": "iPhone SE 2022",
+		"announced_year": 2022,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2022.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipSE2022.jpeg"
+	},
+	{
+		"code_name": "ip12promax",
+        "category_code": "smartphone",
+		"name": "iPhone 12 Pro Max",
+		"announced_year": 2020,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12promax.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip12promax.jpeg"
+	},
+	{
+		"code_name": "ip12pro",
+        "category_code": "smartphone",
+		"name": "iPhone 12 Pro",
+		"announced_year": 2020,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12pro.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip12pro.jpeg"
+	},
+	{
+		"code_name": "ip12",
+        "category_code": "smartphone",
+		"name": "iPhone 12",
+		"announced_year": 2020,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip12.jpeg"
+	},
+	{
+		"code_name": "ip12mini",
+        "category_code": "smartphone",
+		"name": "iPhone 12 Mini",
+		"announced_year": 2020,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip12mini.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip12mini.jpeg"
+	},
+	{
+		"code_name": "ipSE2020",
+        "category_code": "smartphone",
+		"name": "iPhone SE 2020",
+		"announced_year": 2020,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipSE2020.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipSE2020.jpeg"
+	},
+	{
+		"code_name": "ip11promax",
+        "category_code": "smartphone",
+		"name": "iPhone 11 Pro Max",
+		"announced_year": 2019,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11promax.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip11promax.jpeg"
+	},
+	{
+		"code_name": "ip11pro",
+        "category_code": "smartphone",
+		"name": "iPhone 11 Pro",
+		"announced_year": 2019,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11pro.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip11pro.jpeg"
+	},
+	{
+		"code_name": "ip11",
+        "category_code": "smartphone",
+		"name": "iPhone 11",
+		"announced_year": 2019,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ip11.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ip11.jpeg"
+	},
+	{
+		"code_name": "ipxsmax",
+        "category_code": "smartphone",
+		"name": "iPhone XS Max",
+		"announced_year": 2018,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxsmax.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipxsmax.jpeg"
+	},
+	{
+		"code_name": "ipxs",
+        "category_code": "smartphone",
+		"name": "iPhone XS",
+		"announced_year": 2018,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxs.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipxs.jpeg"
+	},
+	{
+		"code_name": "ipxr",
+        "category_code": "smartphone",
+		"name": "iPhone XR",
+		"announced_year": 2018,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipxr.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipxr.jpeg"
+	},
+	{
+		"code_name": "ipx",
+        "category_code": "smartphone",
+		"name": "iPhone X",
+		"announced_year": 2017,
+		"manufacturer": "Apple",
+		"image_base_url": "https://raw.githubusercontent.com/duyphuong5126/TechProductsDB",
+		"thumbnail_path": "/main/v1/image/smartphone/thumb_ipx.jpeg",
+		"photo_path": "/main/v1/image/smartphone/photo_ipx.jpeg"
+	}
+]
